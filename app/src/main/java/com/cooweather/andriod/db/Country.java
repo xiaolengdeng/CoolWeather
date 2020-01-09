@@ -38,4 +38,5 @@ public class Country extends LitePalSupport {
     public void setWeatherId(String weatherId) {
         this.weatherId = weatherId;
     }
+
 }
